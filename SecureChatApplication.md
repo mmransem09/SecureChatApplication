@@ -1,14 +1,14 @@
 
-# Secure Chat Application
+## Secure Chat Application
 
-## 📌 Project Overview
+### 📌 Project Overview
 The **Secure Chat Application** is a Windows-based application developed in **Visual Studio** using **VB.NET**.  
 It allows users to exchange messages securely using both **symmetric** and **asymmetric** cryptographic techniques.  
 The project implements multiple algorithms for encryption, decryption, integrity checking, and authentication.
 
 ---
 
-## 🛠 Technology Stack
+### 🛠 Technology Stack
 - **IDE:** Visual Studio  
 - **Language:** VB.NET  
 - **Framework:** .NET Framework / Windows Forms  
@@ -16,7 +16,7 @@ The project implements multiple algorithms for encryption, decryption, integrity
 
 ---
 
-## 🔐 Supported Cryptographic Techniques
+### 🔐 Supported Cryptographic Techniques
 
 ### Symmetric Encryption
 - Caesar Cipher  
@@ -44,7 +44,7 @@ The project implements multiple algorithms for encryption, decryption, integrity
 
 ---
 
-## 💡 How It Works
+### 💡 How It Works
 
 1. **Key Exchange**  
    - Symmetric: Pre-shared key between sender & receiver  
@@ -65,7 +65,7 @@ The project implements multiple algorithms for encryption, decryption, integrity
 
 ---
 
-## 📸 Screenshots
+### 📸 Screenshots
 
 **Main Interface**  
 ![Main Interface](images/main_interface.png)
@@ -79,6 +79,8 @@ The project implements multiple algorithms for encryption, decryption, integrity
 > *(Replace image paths with actual screenshots in your `images/` folder)*
 
 ---
+
+[← Back](https://github.com/mmransem09/mmransem09/blob/main/README.md)
 
 ## 📊 Example Workflow
 
