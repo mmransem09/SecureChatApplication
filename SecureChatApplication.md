@@ -115,7 +115,5 @@ This project reinforced and developed the following cybersecurity skills:
 - Distinguished between **outdated** algorithms and **modern industry standards**.
 - Made informed choices about algorithm suitability for different use cases.
 
-> These skills are aligned with core cybersecurity principles and demonstrate capability in designing, implementing, and validating secure communication systems.
-
 
 [← Back](https://github.com/mmransem09/mmransem09/blob/main/README.md)
