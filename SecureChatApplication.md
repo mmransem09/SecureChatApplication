@@ -76,7 +76,6 @@ The project implements multiple algorithms for encryption, decryption, integrity
 **Decryption Example**  
 ![Decryption Example](images/decryption_example.png)
 
-> *(Replace image paths with actual screenshots in your `images/` folder)*
 
 ---
 
