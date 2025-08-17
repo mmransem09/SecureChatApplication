@@ -80,8 +80,6 @@ The project implements multiple algorithms for encryption, decryption, integrity
 
 ---
 
-## 🛡 Cybersecurity Skills Developed
-
 This project reinforced and developed the following cybersecurity skills:
 
 ### 🔑 Cryptography Fundamentals
