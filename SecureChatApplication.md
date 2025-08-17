@@ -80,4 +80,44 @@ The project implements multiple algorithms for encryption, decryption, integrity
 
 ---
 
+## 🛡 Cybersecurity Skills Developed
+
+This project reinforced and developed the following cybersecurity skills:
+
+### 🔑 Cryptography Fundamentals
+- Implemented **symmetric encryption** (AES, DES, RC4, OTP) and **asymmetric encryption** (RSA, ECC).
+- Applied **classical ciphers** (Caesar, Playfair, Rail Fence, Columnar) for foundational understanding.
+- Used **hashing algorithms** (SHA) for message integrity.
+- Integrated **digital signatures** (DSA) for authentication and non-repudiation.
+- Applied **key exchange protocols** (Diffie-Hellman) to establish secure communication channels.
+
+### 💻 Secure Software Development
+- Built a security-focused application in **VB.NET** with **Windows Forms GUI**.
+- Designed secure handling of keys, plaintext, and ciphertext in memory.
+- Implemented input validation to prevent malformed data and injection attacks.
+- Balanced **usability** with strong security measures.
+
+### 🔄 Secure Communication Protocol Design
+- Designed message flows ensuring **confidentiality, integrity, and authenticity**.
+- Implemented encryption before transmission and verification upon receipt.
+- Demonstrated understanding of secure key sharing in different encryption models.
+
+### 🛠 Key Management & Distribution
+- Used **pre-shared keys** in symmetric encryption scenarios.
+- Managed **public/private key pairs** for asymmetric encryption.
+- Simulated **secure key exchange** with Diffie-Hellman.
+
+### 📊 Security Testing & Validation
+- Verified correct encryption and decryption processes.
+- Tested hashing outputs to confirm integrity.
+- Conducted functional tests to ensure only authorized decryption succeeds.
+
+### 🧠 Problem-Solving & Algorithm Selection
+- Compared strengths and weaknesses of multiple encryption methods.
+- Distinguished between **outdated** algorithms and **modern industry standards**.
+- Made informed choices about algorithm suitability for different use cases.
+
+> These skills are aligned with core cybersecurity principles and demonstrate capability in designing, implementing, and validating secure communication systems.
+
+
 [← Back](https://github.com/mmransem09/mmransem09/blob/main/README.md)
