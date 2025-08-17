@@ -81,12 +81,3 @@ The project implements multiple algorithms for encryption, decryption, integrity
 ---
 
 [← Back](https://github.com/mmransem09/mmransem09/blob/main/README.md)
-
-## 📊 Example Workflow
-
-**Sender:**
-```plaintext
-Plaintext: HELLO WORLD
-Key: MYKEY
-Technique: AES
-Ciphertext: Zx9Pq1fL0tY...
