@@ -61,8 +61,9 @@ The project implements multiple algorithms for encryption, decryption, integrity
 
 5. **Integrity & Authentication**  
    - SHA hashing ensures data integrity  
-   - DSA verifies sender authenticity  
-
+   - DSA verifies sender authenticity
+      
+![Techniques](images/techniques.jpg)
 ---
 
 ### 📸 Screenshots
