@@ -113,6 +113,8 @@ This project reinforced the following cybersecurity skills:
 - Tested hashing outputs to confirm integrity.
 - Conducted functional tests to ensure only authorized decryption succeeds.
 
+  ![Hashing](images/hash.jpg)
+
 ### 🧠 Problem-Solving & Algorithm Selection
 - Compared strengths and weaknesses of multiple encryption methods.
 - Distinguished between **outdated** algorithms and **modern industry standards**.
