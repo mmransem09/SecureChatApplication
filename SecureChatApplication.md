@@ -42,6 +42,7 @@ The project implements multiple algorithms for encryption, decryption, integrity
 - SHA Hashing (Message Integrity)  
 - DSA (Digital Signature Algorithm)  
 
+![Techniques](images/techniques.jpg)
 ---
 
 ### 💡 How It Works
@@ -63,7 +64,6 @@ The project implements multiple algorithms for encryption, decryption, integrity
    - SHA hashing ensures data integrity  
    - DSA verifies sender authenticity
       
-![Techniques](images/techniques.jpg)
 ---
 
 ### 📸 Screenshots
