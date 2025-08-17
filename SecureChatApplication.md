@@ -73,10 +73,10 @@ The project implements multiple algorithms for encryption, decryption, integrity
 ![Main Interface](images/mainpage.jpg)
 
 **Encryption Example**  
-![Encryption Example](images/encryption_example.png)
+![Encryption Example](images/encryption.jpg)
 
 **Decryption Example**  
-![Decryption Example](images/decryption_example.png)
+![Decryption Example](images/decryption.jpg)
 
 
 ---
