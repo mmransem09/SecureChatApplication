@@ -1,5 +1,5 @@
 
-# 🔐 Secure Chat Application
+# Secure Chat Application
 
 ## 📌 Project Overview
 The **Secure Chat Application** is a Windows-based application developed in **Visual Studio** using **VB.NET**.  
