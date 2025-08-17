@@ -1,11 +1,6 @@
 
 # 🔐 Secure Chat Application
 
-**Course:** Information Systems Security Management 533 – Cryptology and Secure Network Communications (ISSM533A) – Winter 2025  
-**Instructor:** Dr. Eslam G. AbdAllah  
-
----
-
 ## 📌 Project Overview
 The **Secure Chat Application** is a Windows-based application developed in **Visual Studio** using **VB.NET**.  
 It allows users to exchange messages securely using both **symmetric** and **asymmetric** cryptographic techniques.  
