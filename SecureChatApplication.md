@@ -80,7 +80,7 @@ The project implements multiple algorithms for encryption, decryption, integrity
 
 ---
 
-This project reinforced and developed the following cybersecurity skills:
+This project reinforced the following cybersecurity skills:
 
 ### 🔑 Cryptography Fundamentals
 - Implemented **symmetric encryption** (AES, DES, RC4, OTP) and **asymmetric encryption** (RSA, ECC).
